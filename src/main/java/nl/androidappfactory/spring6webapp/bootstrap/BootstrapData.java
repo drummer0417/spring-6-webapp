@@ -1,11 +1,11 @@
-package guru.springframework.spring6webapp.bootstrap;
+package nl.androidappfactory.spring6webapp.bootstrap;
 
-import guru.springframework.spring6webapp.domain.Author;
-import guru.springframework.spring6webapp.domain.Book;
-import guru.springframework.spring6webapp.domain.Publisher;
-import guru.springframework.spring6webapp.repositories.AuthorRepository;
-import guru.springframework.spring6webapp.repositories.BookRepository;
-import guru.springframework.spring6webapp.repositories.PublisherRepository;
+import nl.androidappfactory.spring6webapp.domain.Author;
+import nl.androidappfactory.spring6webapp.domain.Book;
+import nl.androidappfactory.spring6webapp.domain.Publisher;
+import nl.androidappfactory.spring6webapp.repositories.AuthorRepository;
+import nl.androidappfactory.spring6webapp.repositories.BookRepository;
+import nl.androidappfactory.spring6webapp.repositories.PublisherRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 

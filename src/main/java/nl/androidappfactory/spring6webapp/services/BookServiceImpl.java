@@ -1,7 +1,7 @@
-package guru.springframework.spring6webapp.services;
+package nl.androidappfactory.spring6webapp.services;
 
-import guru.springframework.spring6webapp.domain.Book;
-import guru.springframework.spring6webapp.repositories.BookRepository;
+import nl.androidappfactory.spring6webapp.domain.Book;
+import nl.androidappfactory.spring6webapp.repositories.BookRepository;
 import org.springframework.stereotype.Service;
 
 @Service
